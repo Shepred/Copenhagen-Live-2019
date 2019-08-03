@@ -1,0 +1,21 @@
+.content-header {
+	padding-bottom:15px;
+	margin-bottom:30px;
+}
+.content-footer {
+	padding-top:15px;
+	margin-top:30px;
+}
+.vatsca-logo {
+	height:75px;
+	margin-bottom:30px;
+}
+.footer {
+	padding-bottom: 10px;
+}
+.header.navbar.navbar-transparent.navbar-small {
+	background: url(images/bg-content-cover.png);
+}
+.header.navbar.navbar-transparent.navbar-small .navbar-nav > li > a {
+	color: #fff;
+}
