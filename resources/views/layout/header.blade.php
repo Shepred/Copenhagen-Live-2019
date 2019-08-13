@@ -16,6 +16,7 @@
 	<!-- Open Graph general (Facebook, Pinterest & Google+) -->
 	<meta name="og:title" content="Copenhagen Live 2019">
 	<meta name="og:description" content="Welcome to the annual Copenhagen Live event on the VATSIM network!">
+	<meta name="og:image" content="http://cphlive-vatsim.net/assets/img/bg/cphlive.jpg">
 	<meta name="og:type" content="website">
 	
 	<!-- ================== BEGIN BASE CSS STYLE ================== -->
