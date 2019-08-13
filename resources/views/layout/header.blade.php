@@ -1,8 +1,22 @@
 	<meta charset="utf-8" />
 	<title> {{ env('APP_NAME') }}</title>
 	<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport"/>
-	<meta content="" name="description" />
-	<meta content="" name="author" />
+	<!-- Search Engine -->
+	<meta name="description" content="Welcome to the annual Copenhagen Live event on the VATSIM network!">
+	<meta name="image" content="http://cphlive-vatsim.net/assets/img/bg/cphlive.jpg">
+	<!-- Schema.org for Google -->
+	<meta itemprop="name" content="Copenhagen Live 2019">
+	<meta itemprop="description" content="Welcome to the annual Copenhagen Live event on the VATSIM network!">
+	<meta itemprop="image" content="http://cphlive-vatsim.net/assets/img/bg/cphlive.jpg">
+	<!-- Twitter -->
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:title" content="Copenhagen Live 2019">
+	<meta name="twitter:description" content="Welcome to the annual Copenhagen Live event on the VATSIM network!">
+	<meta name="twitter:image:src" content="http://cphlive-vatsim.net/assets/img/bg/cphlive.jpg">
+	<!-- Open Graph general (Facebook, Pinterest & Google+) -->
+	<meta name="og:title" content="Copenhagen Live 2019">
+	<meta name="og:description" content="Welcome to the annual Copenhagen Live event on the VATSIM network!">
+	<meta name="og:type" content="website">
 	
 	<!-- ================== BEGIN BASE CSS STYLE ================== -->
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
