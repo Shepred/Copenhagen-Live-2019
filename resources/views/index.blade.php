@@ -230,7 +230,7 @@
                                 <hr>
                                 Fly between 06:00 & 08:00 Z for a chance to win a <b>FS2Crew product of your choosing</b>.
                                 <br>
-                                Fly between 08:00 & 10:00 Z for a chance to win a <b>Vida Design scenery of your choosing</b>.
+                                Fly between 08:00 & 10:00 Z for a chance to win a <b>Vidan Design scenery of your choosing</b>.
                                 </p>
                             </div>
                         </div>
