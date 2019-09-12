@@ -638,7 +638,7 @@
                     <div class="col-md-8">
                         <h2 class="content-title" style="padding-top: 50px;">Copenhagen Parking Chart</h2>
                         <p class="text-center">Copenhagen is a complicated, intertwined and compact airport. At the best of times it's a rather confusing place to navigate your virtual aircraft. We've put together a chart that should help you prepare for your taxi instructions as well as where to park.</p>
-                        <a href="http://cphlive2019.test/assets/img/parkingchart.jpg" target="_blank">
+                        <a href="{{ url('assets/img/parkingchart.jpg') }}" target="_blank">
                             <img class="img-responsive" src="{{ asset('assets/img/parkingchart.jpg') }}"/>
                         </a>
                     </div>
