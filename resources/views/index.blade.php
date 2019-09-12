@@ -242,7 +242,7 @@
 
                             <div class="info">
                                 <h4 class="title">Domestic Madness</h4>
-                                <p class="desc">Short on time? Complete a domestic two sector flight, originating in Copenhagen to any commercial airfield in Denmark & return to participate.
+                                <p class="desc">Short on time? Complete two domestic flights either originating or ending in Copenhagen to any commercial airfield in Denmark & return to participate. You must have one departure and one landing in Copenhagen from a domestic airport to be eligible.
                                 <hr>
                                 Fly domestic for a chance to win a <b>€30 Aerosoft giftcard</b>.
                                 </p>
@@ -275,7 +275,7 @@
 
                             <div class="info">
                                 <h4 class="title">6 Sector Challenge</h4>
-                                <p class="desc">Got the whole day set aside? Complete at least 6 sectors during the event. Every sector has to either arrive or depart at Copenhagen.
+                                <p class="desc">Got the whole day set aside? Complete at least 6 flights during the event, either originating or arriving in Copenhagen. It can be done during the whole day, and split up throughout the entire day.
                                 <hr>
                                 Complete 6 sectors for a chance to win the <b>Aerosoft Airbus A330</b>. You will receive the prize once the product releases.
                                 </p>
