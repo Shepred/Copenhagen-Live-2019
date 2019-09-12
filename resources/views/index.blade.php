@@ -91,7 +91,7 @@
                     <!-- begin col-3 -->
                     <div class="col-md-3 col-sm-3 milestone-col">
                         <div class="milestone">
-                            <div class="number" data-animation="true" data-animation-type="number" data-final-number="11">11</div>
+                            <div class="number" data-animation="true" data-animation-type="number" data-final-number="20">20</div>
                             <div class="title">Controllers</div>
                         </div>
                     </div>
@@ -621,7 +621,18 @@
                     </div>
                     <div class="col-md-2">&nbsp;</div>
                 </div>
-
+                <div class="row">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-8">
+                        <h2 class="content-title" style="padding-top: 50px;">GSX Configuration Files</h2>
+                        <p class="text-center">For Copenhagen especially, we are very proud to present our very own GSX configuration file. Our configuration is complete with correct, true to life pushbacks, SODE jetways & correct loading equipment placement.</p>
+                        <p class="text-center">The pushback functionality of this file is especially crucial to the hourly rate of departures for Copenhagen. As such we strongly recommend every GSX user planning to visit Copenhagen to download & install it.</p>
+                        <h3 class="text-center">
+                            <a href="http://vatsim-scandinavia.org/wp-content/uploads/2019/09/GSX-Configuration-for-EKCH-Level-2.zip">Download our Copenhagen GSX configuration here</a>
+                        </h3>
+                    </div>
+                    <div class="col-md-2"></div>
+                </div>
             </div>
             <!-- end container -->
         </div>
